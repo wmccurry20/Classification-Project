@@ -6,15 +6,15 @@ Python3
 JupyterNotebook
 
 # Installs:
-from sklearn.metrics import recall_score
-from sklearn.metrics import f1_score
-from sklearn.metrics import precision_score
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.model_selection import cross_val_score
-from sklearn.impute import SimpleImputer
-import numpy as np
-import pandas as pd
+# from sklearn.metrics import recall_score
+# from sklearn.metrics import f1_score
+# from sklearn.metrics import precision_score
+# from sklearn.tree import DecisionTreeClassifier
+# from sklearn.naive_bayes import GaussianNB
+# from sklearn.model_selection import cross_val_score
+# from sklearn.impute import SimpleImputer
+# import numpy as np
+# import pandas as pd
 
 # Setup:
 Ensure installs are on your system
